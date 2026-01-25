@@ -3,7 +3,7 @@ name: CI
 on:
   push:
     branches: 
-      - feat/github-actions-practice
+      - feat/github-action-practice
 
 jobs:
   unit-test-backend:
